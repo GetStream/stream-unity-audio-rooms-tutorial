@@ -1,4 +1,4 @@
-# Starting Project for Video Calling App in Unity Tutorial
+# Starting Project for Audio Rooms App in Unity Tutorial
 
 This is a starting Unity project for [How to Build a Audio Rooms App in Unity](https://getstream.io/video/docs/unity/tutorials/audio-room/) tutorial using Stream's [Video & Audio SDK for Unity](https://github.com/GetStream/stream-video-unity).
 
